@@ -11,7 +11,7 @@
     "Type": "Coupe",
     "Rarity": "Rare",
     "Color": "#4E5AFD",
-    "Path": "../../assets/BMW_E30.png"
+    "Path": "https://fab-io.xyz/world-clicker/assets/BMW_E30.png"
 },
 {
     "Name": "Ford Mustang",
@@ -26,7 +26,7 @@
     "Type": "Muscle",
     "Rarity": "Rare",
     "Color": "#4E5AFD",
-    "Path": "../../assets/Ford_Mustang.png"
+    "Path": "https://fab-io.xyz/world-clicker/assets/Ford_Mustang.png"
 },
 {
     "Name": "Lamborghini Countach",
@@ -41,7 +41,7 @@
     "Type": "Sports",
     "Rarity": "Legendary",
     "Color": "#FAD94B",
-    "Path": "../../assets/Lamborghini_Countach.png"
+    "Path": "https://fab-io.xyz/world-clicker/assets/Lamborghini_Countach.png"
 }
 ,
 {
@@ -57,7 +57,7 @@
     "Type": "Sports",
     "Rarity": "Epic",
     "Color": "#A745CE",
-    "Path": "../../assets/Toyota_Supra.png"
+    "Path": "https://fab-io.xyz/world-clicker/assets/Toyota_Supra.png"
 }
 ,{
     "Name": "Porsche 911",
@@ -72,7 +72,7 @@
     "Type": "Sports",
     "Rarity": "Epic",
     "Color": "#A745CE",
-    "Path": "../../assets/Porsche_911.png"
+    "Path": "https://fab-io.xyz/world-clicker/assets/Porsche_911.png"
 }
 ,{
     "Name": "Volkswagen Beetle",
@@ -87,7 +87,7 @@
     "Type": "Compact",
     "Rarity": "Uncommon",
     "Color": "#1FDD1D",
-    "Path": "../../assets/Volkswagen_Beetle.png"
+    "Path": "https://fab-io.xyz/world-clicker/assets/Volkswagen_Beetle.png"
 }
 ,{
     "Name": "Ferrari F40",
@@ -102,7 +102,7 @@
     "Type": "Supercar",
     "Rarity": "Legendary",
     "Color": "#FAD94B",
-    "Path": "../../assets/Ferrari_F40.png"
+    "Path": "https://fab-io.xyz/world-clicker/assets/Ferrari_F40.png"
 }
 ,{
     "Name": "Jeep Wrangler",
@@ -117,7 +117,7 @@
     "Type": "Off-Road",
     "Rarity": "Common",
     "Color": "#BDBDB5",
-    "Path": "../../assets/Jeep_Wrangler.png"
+    "Path": "https://fab-io.xyz/world-clicker/assets/Jeep_Wrangler.png"
 }
 ,{
     "Name": "Chevrolet Camaro",
@@ -132,7 +132,7 @@
     "Type": "Muscle",
     "Rarity": "Rare",
     "Color": "#4E5AFD",
-    "Path": "../../assets/Chevrolet_Camero.png"
+    "Path": "https://fab-io.xyz/world-clicker/assets/Chevrolet_Camero.png"
 }
 ,{
     "Name": "Nissan GT-R",
@@ -147,7 +147,7 @@
     "Type": "Sports",
     "Rarity": "Epic",
     "Color": "#A745CE",
-    "Path": "../../assets/Nissan_GT-R.png"
+    "Path": "https://fab-io.xyz/world-clicker/assets/Nissan_GT-R.png"
 },{
     "Name": "Aston Martin DB5",
     "Miles_per_Gallon": 15,
@@ -161,7 +161,7 @@
     "Type": "Luxury",
     "Rarity": "Legendary",
     "Color": "#FAD94B",
-    "Path": "../../assets/Aston_Martin_DB5.png"
+    "Path": "https://fab-io.xyz/world-clicker/assets/Aston_Martin_DB5.png"
 },{
     "Name": "Dodge Charger",
     "Miles_per_Gallon": 12,
@@ -175,7 +175,7 @@
     "Type": "Muscle",
     "Rarity": "Rare",
     "Color": "#4E5AFD",
-    "Path": "../../assets/Dodge_Charger.png"
+    "Path": "https://fab-io.xyz/world-clicker/assets/Dodge_Charger.png"
 }
 
 
