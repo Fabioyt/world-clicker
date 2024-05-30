@@ -1,0 +1,183 @@
+[{
+    "Name": "BMW E30",
+    "Miles_per_Gallon": 25,  
+    "Cylinders": 6, 
+    "Displacement": 2494,  
+    "Horsepower": 168,  
+    "Weight_in_lbs": 2765,  
+    "Acceleration": 7.5,  
+    "Year": "1987-01-01",  
+    "Origin": "Germany",
+    "Type": "Coupe",
+    "Rarity": "Rare",
+    "Color": "#4E5AFD",
+    "Path": "../../assets/BMW_E30.png"
+},
+{
+    "Name": "Ford Mustang",
+    "Miles_per_Gallon": 15,
+    "Cylinders": 8,
+    "Displacement": 289,
+    "Horsepower": 225,
+    "Weight_in_lbs": 3080,
+    "Acceleration": 8.0,
+    "Year": "1967-01-01",
+    "Origin": "USA",
+    "Type": "Muscle",
+    "Rarity": "Rare",
+    "Color": "#4E5AFD",
+    "Path": "../../assets/Ford_Mustang.png"
+},
+{
+    "Name": "Lamborghini Countach",
+    "Miles_per_Gallon": 9,
+    "Cylinders": 12,
+    "Displacement": 5167,
+    "Horsepower": 455,
+    "Weight_in_lbs": 3296,
+    "Acceleration": 5.0,
+    "Year": "1985-01-01",
+    "Origin": "Italy",
+    "Type": "Sports",
+    "Rarity": "Legendary",
+    "Color": "#FAD94B",
+    "Path": "../../assets/Lamborghini_Countach.png"
+}
+,
+{
+    "Name": "Toyota Supra",
+    "Miles_per_Gallon": 19,
+    "Cylinders": 6,
+    "Displacement": 2997,
+    "Horsepower": 320,
+    "Weight_in_lbs": 3415,
+    "Acceleration": 5.1,
+    "Year": "1994-01-01",
+    "Origin": "Japan",
+    "Type": "Sports",
+    "Rarity": "Epic",
+    "Color": "#A745CE",
+    "Path": "../../assets/Toyota_Supra.png"
+}
+,{
+    "Name": "Porsche 911",
+    "Miles_per_Gallon": 16,
+    "Cylinders": 6,
+    "Displacement": 2687,
+    "Horsepower": 210,
+    "Weight_in_lbs": 2400,
+    "Acceleration": 6.3,
+    "Year": "1973-01-01",
+    "Origin": "Germany",
+    "Type": "Sports",
+    "Rarity": "Epic",
+    "Color": "#A745CE",
+    "Path": "../../assets/Porsche_911.png"
+}
+,{
+    "Name": "Volkswagen Beetle",
+    "Miles_per_Gallon": 30,
+    "Cylinders": 4,
+    "Displacement": 1192,
+    "Horsepower": 40,
+    "Weight_in_lbs": 1800,
+    "Acceleration": 23.0,
+    "Year": "1963-01-01",
+    "Origin": "Germany",
+    "Type": "Compact",
+    "Rarity": "Uncommon",
+    "Color": "#1FDD1D",
+    "Path": "../../assets/Volkswagen_Beetle.png"
+}
+,{
+    "Name": "Ferrari F40",
+    "Miles_per_Gallon": 11,
+    "Cylinders": 8,
+    "Displacement": 2936,
+    "Horsepower": 478,
+    "Weight_in_lbs": 2425,
+    "Acceleration": 4.2,
+    "Year": "1987-01-01",
+    "Origin": "Italy",
+    "Type": "Supercar",
+    "Rarity": "Legendary",
+    "Color": "#FAD94B",
+    "Path": "../../assets/Ferrari_F40.png"
+}
+,{
+    "Name": "Jeep Wrangler",
+    "Miles_per_Gallon": 22,
+    "Cylinders": 6,
+    "Displacement": 3600,
+    "Horsepower": 285,
+    "Weight_in_lbs": 4231,
+    "Acceleration": 7.4,
+    "Year": "2021-01-01",
+    "Origin": "USA",
+    "Type": "Off-Road",
+    "Rarity": "Common",
+    "Color": "#BDBDB5",
+    "Path": "../../assets/Jeep_Wrangler.png"
+}
+,{
+    "Name": "Chevrolet Camaro",
+    "Miles_per_Gallon": 14,
+    "Cylinders": 8,
+    "Displacement": 396,
+    "Horsepower": 375,
+    "Weight_in_lbs": 3700,
+    "Acceleration": 6.8,
+    "Year": "1969-01-01",
+    "Origin": "USA",
+    "Type": "Muscle",
+    "Rarity": "Rare",
+    "Color": "#4E5AFD",
+    "Path": "../../assets/Chevrolet_Camero.png"
+}
+,{
+    "Name": "Nissan GT-R",
+    "Miles_per_Gallon": 18,
+    "Cylinders": 6,
+    "Displacement": 3799,
+    "Horsepower": 480,
+    "Weight_in_lbs": 3836,
+    "Acceleration": 3.5,
+    "Year": "2009-01-01",
+    "Origin": "Japan",
+    "Type": "Sports",
+    "Rarity": "Epic",
+    "Color": "#A745CE",
+    "Path": "../../assets/Nissan_GT-R.png"
+},{
+    "Name": "Aston Martin DB5",
+    "Miles_per_Gallon": 15,
+    "Cylinders": 6,
+    "Displacement": 3995,
+    "Horsepower": 282,
+    "Weight_in_lbs": 3285,
+    "Acceleration": 8.1,
+    "Year": "1964-01-01",
+    "Origin": "UK",
+    "Type": "Luxury",
+    "Rarity": "Legendary",
+    "Color": "#FAD94B",
+    "Path": "../../assets/Aston_Martin_DB5.png"
+},{
+    "Name": "Dodge Charger",
+    "Miles_per_Gallon": 12,
+    "Cylinders": 8,
+    "Displacement": 426,
+    "Horsepower": 425,
+    "Weight_in_lbs": 3760,
+    "Acceleration": 5.4,
+    "Year": "1968-01-01",
+    "Origin": "USA",
+    "Type": "Muscle",
+    "Rarity": "Rare",
+    "Color": "#4E5AFD",
+    "Path": "../../assets/Dodge_Charger.png"
+}
+
+
+
+]
